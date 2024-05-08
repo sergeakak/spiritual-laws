@@ -26,6 +26,11 @@ stages {
       echo 'The Lord is my everlasting supply, meeting all my needs, and wants right now'
     }
   }
+stage('law05') {
+    steps {
+      echo 'The Lord did not give me the spirit of fear but of power, love and sound mind'
+    }
+  }
 
  }
 }
