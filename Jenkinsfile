@@ -31,6 +31,11 @@ stage('law05') {
       echo 'The Lord did not give me the spirit of fear but of power, love and sound mind'
     }
   }
+ stage('law06') {
+    steps {
+      echo 'Be still,and know that i am God'
+    }
+  } 
 
  }
 }
